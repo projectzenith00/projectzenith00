@@ -21,6 +21,6 @@ Currently Learning Python
 <img src="https://techwithlove.com/wp-content/uploads/2016/06/access-denied-meme.png" width="600px" height="auto">
 
 ---
-[![](https://visitcount.itsvg.in/api?id=projectzenith00&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
