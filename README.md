@@ -1,7 +1,7 @@
 # projectzenith-profile
 Personal repo
 # 💫 About Me:
-Currently Learning Python
+IT/Systems Administrator & Web Developer
 
 
 ## 🌐 Socials:
